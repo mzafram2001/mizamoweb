@@ -1,4 +1,4 @@
-<h1 align="center">✨ mizamoweb ✨</h1>
+<h1 align="center">✨ mizamoweb.web.app ✨</h1>
 <div align="center">
  <h2>Languages used: <img align="center" alt="MZM-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="MZM-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
